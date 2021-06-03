@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "destiny-hfk": {
+      "hosting": {
+        "destiny-web": [
+          "destiny-hfk"
+        ]
+      }
+    }
+  }
+}
